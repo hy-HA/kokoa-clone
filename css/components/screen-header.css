@@ -1,5 +1,5 @@
 .body {
-    margin-top: 25px
+    margin-top: 30px
 }
 
 .screen-header {
@@ -7,6 +7,7 @@
     justify-content: space-between;
     align-items: center;
     padding: var(--horizontal-space);
+    margin-bottom: 15px;
 }
 
 .screen-header_title {
