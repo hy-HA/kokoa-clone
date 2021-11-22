@@ -111,7 +111,3 @@
     }
 }
 
-.open-post_heart-count:hover i {
-    will-change: transform;
-    animation: heartBeat 1s linear infinite;
-}
